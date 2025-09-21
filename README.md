@@ -37,13 +37,12 @@ Dựa trên cấu trúc và các thư mục hiện có, ElectorApp có các tín
 
 ## Hướng dẫn cài đặt và chạy
 
-
 1. **Yêu cầu môi trường:**
    - .NET SDK (phiên bản hỗ trợ .NET 9.0)
    - Visual Studio hoặc IDE nào hỗ trợ .NET trên Windows
-   - Database nếu có (SQL Server / SQLite / hoặc bất cứ DB nào được cấu hình trong Models nếu dùng EF Core) — nếu có cần file cấu hình connection string.
 
 2. **Chuẩn bị:**
    ```bash
    git clone https://github.com/qngocc/ElectorApp.git
    cd ElectorApp
+
