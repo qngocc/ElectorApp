@@ -1,0 +1,8 @@
+D:\Quanlibaucu\ElectorApp.exe
+D:\Quanlibaucu\data\baucu.txt
+D:\Quanlibaucu\data\login.txt
+D:\Quanlibaucu\data\user.txt
+D:\Quanlibaucu\ElectorApp.dll
+D:\Quanlibaucu\ElectorApp.deps.json
+D:\Quanlibaucu\ElectorApp.runtimeconfig.json
+D:\Quanlibaucu\ElectorApp.pdb

@@ -1,0 +1,8 @@
+D:\Noth\ElectorApp\bin\Release\net9.0-windows\publish\ElectorApp.exe
+D:\Noth\ElectorApp\bin\Release\net9.0-windows\publish\data\baucu.txt
+D:\Noth\ElectorApp\bin\Release\net9.0-windows\publish\data\login.txt
+D:\Noth\ElectorApp\bin\Release\net9.0-windows\publish\data\user.txt
+D:\Noth\ElectorApp\bin\Release\net9.0-windows\publish\ElectorApp.dll
+D:\Noth\ElectorApp\bin\Release\net9.0-windows\publish\ElectorApp.deps.json
+D:\Noth\ElectorApp\bin\Release\net9.0-windows\publish\ElectorApp.runtimeconfig.json
+D:\Noth\ElectorApp\bin\Release\net9.0-windows\publish\ElectorApp.pdb

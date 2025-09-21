@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Noth\ElectorApp\Properties\PublishProfiles\FolderProfile2.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Admin\AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\CapNhatBauCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\TaoBauCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auth\DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auth\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\KetQua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\ThamGiaBauCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\UserHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

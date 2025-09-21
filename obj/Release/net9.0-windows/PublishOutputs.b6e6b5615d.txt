@@ -1,0 +1,8 @@
+E:\builtElectorApp\ElectorApp.exe
+E:\builtElectorApp\data\baucu.txt
+E:\builtElectorApp\data\login.txt
+E:\builtElectorApp\data\user.txt
+E:\builtElectorApp\ElectorApp.dll
+E:\builtElectorApp\ElectorApp.deps.json
+E:\builtElectorApp\ElectorApp.runtimeconfig.json
+E:\builtElectorApp\ElectorApp.pdb
